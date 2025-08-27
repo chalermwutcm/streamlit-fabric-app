@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor="#F8C8DC" # Pastel Pink
+backgroundColor="#FFFDD0" # Pastel Yellow
+secondaryBackgroundColor="#BDE0FE" # Pastel Blue
+textColor="#333333"
+font="sans serif"
